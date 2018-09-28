@@ -1,0 +1,12 @@
+.navDrawer.nav-drawer-light-bg {
+    background-color: #f9f9f9;
+}
+.demo-pinned-navlist .navDrawer {
+    position: relative;
+}
+
+.navDrawer {
+    min-width: 280px;
+    max-width: 280px;
+    width: 280px;
+}
